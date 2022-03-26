@@ -14,6 +14,6 @@
 <h2 align="center">don't die until you dead</h4>
 
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: arminrahmati83@gmail.com
+- 📫 How to reach me: [Gmail](arminrahmati83@gmail.com)
 - I'm mainly focused on backend development
 
