@@ -4,16 +4,12 @@
 <!-- <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300"> -->
 <h3 align="center"> Language & Skills </h3>
 
-- Python , Django
-- C++
-- Java
-- Html, css, JavaScipt
-- Android Development (basic kotlin)
-- php Laravel
+- Programming (Python, php, Javascript, Html, CSS) 
+- Framework(Laravel, vue.js, Alpine.js, Tailwind CSS
+- ExtraKnowledge (Linux, Git, SQL, GQL, Ajax, Json)
+- Familiar(Unit Testing, Clean Code, Responsive)
 
-<h2 align="center">don't die until you dead</h4>
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: [Gmail](arminrahmati83@gmail.com)
+- 🌱 learning also Seeking Opportunities
 - I'm mainly focused on backend development
 
