@@ -5,8 +5,8 @@
 <h3 align="center"> Language & Skills </h3>
 
 - Programming (Python, php, Javascript, Html, CSS) 
-- Framework(Laravel, vue.js, Alpine.js, Tailwind CSS
-- ExtraKnowledge (Linux, Git, SQL, GQL, Ajax, Json)
+- Framework(Laravel, Alpine.js, Tailwind CSS)
+- ExtraKnowledge (Linux, Git, SQL, Ajax, Json)
 - Familiar(Unit Testing, Clean Code, Responsive)
 
 
