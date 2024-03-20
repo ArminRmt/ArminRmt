@@ -1,15 +1,20 @@
+<h1 align="center">Hi there, I'm Armin Rahmati! 👋</h1>
+<p align="center">One day a full-stack web developer.</p>
+<p align="center">
+  <a href="https://arminrmt.github.io/">Check out my portfolio</a> 🚀
+</p>
 
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I'm Armin Rahmati. One day a full stack web developer</p>
-<!-- <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300"> -->
-<h3 align="center"> Language & Skills </h3>
+<h3 align="center">Languages & Skills</h3>
 
-- Programming (Python, PHP, Javascript, HTML, CSS) 
-- Framework(Laravel, node.js, Alpine.js, Tailwind CSS)
-- ExtraKnowledge (Linux, Git, SQL, Ajax, JSON)
-- Familiar(Unit Testing, Clean Code, Responsive)
+<p align="center">Here are some of the languages and skills I work with:</p>
 
+<div align="center">
+  <ul>
+    <li>Programming: Python, PHP, JavaScript, HTML, CSS</li>
+    <li>Frameworks: Laravel, Node.js, Alpine.js, Tailwind CSS</li>
+    <li>Additional Skills: Linux, Git, SQL, Ajax, JSON</li>
+    <li>Best Practices: Unit Testing, Clean Code, Responsive Design</li>
+  </ul>
+</div>
 
-- 🌱 Learning also Seeking Opportunities
-- I'm mainly focused on backend development
-
+<p align="center">Currently learning and seeking opportunities. Mainly focused on backend development.</p>
