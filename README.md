@@ -8,13 +8,9 @@
 
 <p align="center">Here are some of the languages and skills I work with:</p>
 
-<div align="center">
-  <ul>
-    <li>Programming: Python, PHP, JavaScript, HTML, CSS</li>
-    <li>Frameworks: Laravel, Node.js, Alpine.js, Tailwind CSS</li>
-    <li>Additional Skills: Linux, Git, SQL, Ajax, JSON</li>
-    <li>Best Practices: Unit Testing, Clean Code, Responsive Design</li>
-  </ul>
-</div>
+<p align="center">Programming: Python, PHP, JavaScript</p>
+<p align="center">Frameworks: Laravel, Node.js, Alpine.js, Tailwind CSS</p>
+<p align="center">Additional Skills: Linux, Git, sql & nosql database, REST APIs, Search Engines</p>
+<p align="center">Best Practices: Unit Testing, Clean Code, Responsive Design, Hardware language</p>
 
 <p align="center">Currently learning and seeking opportunities. Mainly focused on backend development.</p>
