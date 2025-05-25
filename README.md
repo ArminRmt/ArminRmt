@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello World! I'm Armin Rahmati
+# 👋 Hello World! I'm Armin
 
 ### 🌟 Software Engineer | familiar with NLP, Crypto fundamental
 
